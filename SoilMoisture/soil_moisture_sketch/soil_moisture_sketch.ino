@@ -1,6 +1,7 @@
 /**
  * Soil Moisture Sensor
- * Simply logs value of moisture sensor, for testing and calibration purposes
+ * Simply logs value of moisture sensor, for testing and calibration purposes.
+ * For actual use, reduce sensor polling to increase life of sensor.
  * 
  * Using:
  * Sparkfun Soil Moisture Sensor

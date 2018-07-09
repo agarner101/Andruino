@@ -30,6 +30,10 @@ void loop() {
 
   LCD.write("Hello, World!");
 
+//Uncomment below to set as splash screen
+//  LCD.write(0x7C);
+//  LCD.write(0x0A);
+
   //Prevent loop from continuing.
   while (1);
 

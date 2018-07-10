@@ -1,0 +1,7 @@
+# Datatypes
+LED	KEYWORD1
+
+# Methods and Functions
+write	KEYWORD2
+turnOn	KEYWORD2
+turnOff	KEYWORD2
